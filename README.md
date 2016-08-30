@@ -37,6 +37,12 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 - Colorless Tsukuru Tazaki - Haruki Murakami
 
 ### Favorite Film
+**Clips:**
+- [One Week in Japan](https://www.youtube.com/watch?v=ii2Dalgilvg)
+- [Pulp Fiction, Opening Scene](https://www.youtube.com/watch?v=Jomr9SAjcyw)
+- [SpaceX Lands Falcon 9 on Drone Ship](https://www.youtube.com/watch?v=Y3XyQHK3Eqw)
+- [The Explanation of a Hero](https://www.youtube.com/watch?v=hD3JUf9tbuY)
+- [Clapping for all the Wrong Reasons](https://www.youtube.com/watch?v=Z_bONLcE8IA)
 
 ### Favorite Audio
 
