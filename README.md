@@ -8,7 +8,7 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 
 #### Favorite Things
 - [Writing](#favorite-writing)
-- [Film](#favorite-film)
+- [Film & Video](#favorite-film)
 - [Audio](#favorite-audio)
 
 #### Ideas
@@ -36,7 +36,7 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 - Vagabonding - Rolf Potts
 - Colorless Tsukuru Tazaki - Haruki Murakami
 
-### Favorite Film
+### Favorite Film & Video
 **Clips:**
 - [One Week in Japan](https://www.youtube.com/watch?v=ii2Dalgilvg)
 - [Pulp Fiction, Opening Scene](https://www.youtube.com/watch?v=Jomr9SAjcyw)
