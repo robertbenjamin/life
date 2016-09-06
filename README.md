@@ -17,6 +17,7 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 
 #### Beliefs
 - [Introduction](#introduction-to-beliefs)
+- [Core Beliefs](#core-beliefs)
 
 ### Favorite Writing
 **Articles:**
@@ -58,3 +59,8 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 
 
 ### Introduction to Beliefs
+
+### Core Beliefs
+**Difficulty of following a belief and number of followers of a belief has no correlation to validity of that belief.**
+
+**Never, ever, ever forget the sunk cost fallacy.**
