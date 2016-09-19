@@ -21,6 +21,7 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 
 ### Favorite Writing
 **Articles:**
+- [The Alameda-Weehawken Burrito Tunnel](http://idlewords.com/2007/04/the_alameda_weehawken_burrito_tunnel.htm) - [Idle Words](http://idlewords.com)
 - [Your Life in Weeks](http://waitbutwhy.com/2014/05/life-weeks.html) - [Wait but Why](http://waitbutwhy.com)
 - [The Post-Productive Economy](http://kk.org/thetechnium/the-post-produc/) - [KK](http://kk.org)
 - [Programming Sucks](http://www.stilldrinking.org/programming-sucks) - [Still Drinking](http://www.stilldrinking.org)
@@ -49,6 +50,10 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 
 
 ### Foundational Ideas
+**Some things are (at least for now) unknowable.**
+
+**Think bottom up, not top down.** Since brains are incredibly creative and very good at creating patterns where there are none, it's very important to think from the bottom up. That is, you should never start with an idea and then find reasons why it is true. Instead, you should start with things you are certain to be true and follow them to their logical conclusion with as few assumptions as possible.
+
 
 ### Tangential Ideas
 **Local peaks.** A local peak is a small hill next to a hundred other small hills, next to a few medium mountains, and a bit aways from the towering Everest. It’s getting really damn good at walking to the end of your driveway but never trying to run a mile. It’s the entire concept of steampunk. It’s obsessing over getting better and better at your job without really thinking if it’s the *right* job for you.
@@ -61,6 +66,6 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 ### Introduction to Beliefs
 
 ### Core Beliefs
-**Difficulty of following a belief and number of followers of a belief has no correlation to validity of that belief.**
+**Human opinion and actions do not create truths.** In other words, there is no correlation between the effort put into maintaining a belief and the validity of the belief itself. If someone goes through great difficulties to uphold something they belief, it does not make it more or less true — beliefs should always be judged on their own merit.
 
-**Never, ever, ever forget the sunk cost fallacy.**
+**Never, ever, forget the sunk cost fallacy.** Following the previous assertion — you should never continue to cling to a belief if you discover something that falsifies it. It does not matter how long you've believed something or how much effort you have put into believing it. This is easy to understand in concept but incredibly difficult to practice.
