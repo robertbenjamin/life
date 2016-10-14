@@ -21,8 +21,9 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 
 ### Favorite Writing
 **Articles:**
-- [The Alameda-Weehawken Burrito Tunnel](http://idlewords.com/2007/04/the_alameda_weehawken_burrito_tunnel.htm) - [Idle Words](http://idlewords.com)
+- [The Ideology is Not the Movement](http://slatestarcodex.com/2016/04/04/the-ideology-is-not-the-movement/)
 - [Your Life in Weeks](http://waitbutwhy.com/2014/05/life-weeks.html) - [Wait but Why](http://waitbutwhy.com)
+- [The Alameda-Weehawken Burrito Tunnel](http://idlewords.com/2007/04/the_alameda_weehawken_burrito_tunnel.htm) - [Idle Words](http://idlewords.com)
 - [The Post-Productive Economy](http://kk.org/thetechnium/the-post-produc/) - [KK](http://kk.org)
 - [Programming Sucks](http://www.stilldrinking.org/programming-sucks) - [Still Drinking](http://www.stilldrinking.org)
 - [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) - [Bloomberg](http://www.bloomberg.com)
