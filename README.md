@@ -70,4 +70,4 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 ### Core Beliefs
 **Human opinion and actions do not create truths.** In other words, there is no correlation between the effort put into maintaining a belief and the validity of the belief itself. If someone goes through great difficulties to uphold something they belief, it does not make it more or less true — beliefs should always be judged on their own merit.
 
-**Never, ever, forget the sunk cost fallacy.** Following the previous assertion — you should never continue to cling to a belief if you discover something that falsifies it. It does not matter how long you've believed something or how much effort you have put into believing it. This is easy to understand in concept but incredibly difficult to practice.
+**Never, ever, forget the sunk cost fallacy.** Following the previous assertion, you should never continue to cling to a belief if you discover something that falsifies it. It does not matter how long you've believed something or how much effort you have put into believing it. This is easy to understand in concept but incredibly difficult to practice.
