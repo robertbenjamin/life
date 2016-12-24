@@ -41,6 +41,19 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 - Colorless Tsukuru Tazaki - Haruki Murakami
 
 ### Favorite Film & Video
+**Films:**
+- The Iron Giant
+- Nightcrawler
+- Howl's Moving Castle
+- Birdman
+- Edge of Tomorrow
+- Babel
+- Children of Men
+- The Revenant
+- Interstellar
+- Sicario
+- Cloud Atlas
+
 **Clips:**
 - [One Week in Japan](https://www.youtube.com/watch?v=ii2Dalgilvg)
 - [Pulp Fiction, Opening Scene](https://www.youtube.com/watch?v=Jomr9SAjcyw)
