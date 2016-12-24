@@ -26,6 +26,7 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 - [The Alameda-Weehawken Burrito Tunnel](http://idlewords.com/2007/04/the_alameda_weehawken_burrito_tunnel.htm) - [Idle Words](http://idlewords.com)
 - [The Post-Productive Economy](http://kk.org/thetechnium/the-post-produc/) - [KK](http://kk.org)
 - [Programming Sucks](http://www.stilldrinking.org/programming-sucks) - [Still Drinking](http://www.stilldrinking.org)
+- [The Locust Economy](http://www.ribbonfarm.com/2013/04/03/the-locust-economy/) - [Ribbon Farm](http://www.ribbonfarm.com/)
 - [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) - [Bloomberg](http://www.bloomberg.com)
 
 **Books:**
