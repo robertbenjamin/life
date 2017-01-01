@@ -40,6 +40,8 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 - Vagabonding - Rolf Potts
 - Colorless Tsukuru Tazaki - Haruki Murakami
 
+---
+
 ### Favorite Film & Video
 **Films:**
 - The Iron Giant
@@ -61,7 +63,11 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 - [The Explanation of a Hero](https://www.youtube.com/watch?v=hD3JUf9tbuY)
 - [Clapping for all the Wrong Reasons](https://www.youtube.com/watch?v=Z_bONLcE8IA)
 
+---
+
 ### Favorite Audio
+
+---
 
 
 ### Foundational Ideas
@@ -69,6 +75,7 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 
 **Think bottom up, not top down.** Since brains are incredibly creative and very good at creating patterns where there are none, it's very important to think from the bottom up. That is, you should never start with an idea and then find reasons why it is true. Instead, you should start with things you are certain to be true and follow them to their logical conclusion with as few assumptions as possible.
 
+---
 
 ### Tangential Ideas
 **Local peaks.** A local peak is a small hill next to a hundred other small hills, next to a few medium mountains, and a bit aways from the towering Everest. It’s getting really damn good at walking to the end of your driveway but never trying to run a mile. It’s the entire concept of steampunk. It’s obsessing over getting better and better at your job without really thinking if it’s the *right* job for you.
@@ -77,8 +84,11 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 
 **Kids are the same everywhere in the world.** Seriously, they are. Adults might have changed behavior due to culture or upbringing or education, but look at a group of happy kids anywhere in the entire world and they’re exactly the same. Madly smiling, running about, screaming silly things, enjoying their wild imaginations, and wondering at every new thing they see.
 
+---
 
 ### Introduction to Beliefs
+
+---
 
 ### Core Beliefs
 **Human opinion and actions do not create truths.** In other words, there is no correlation between the effort put into maintaining a belief and the validity of the belief itself. If someone goes through great difficulties to uphold something they belief, it does not make it more or less true — beliefs should always be judged on their own merit.
