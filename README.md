@@ -6,6 +6,9 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 
 ## Table of Contents
 
+#### Year in Review
+###### - [2016](https://github.com/robertbenjamin/life/blob/master/2016.md)
+
 #### Favorite Things
 - [Writing](#favorite-writing)
 - [Film & Video](#favorite-film)
