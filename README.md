@@ -24,6 +24,7 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 
 ### Favorite Writing
 **Articles:**
+- [Life Lessons after 10 Years](https://betterexplained.com/articles/life-lessons-10-years/) - [Better Explained](https://betterexplained.com/)
 - [The Ideology is Not the Movement](http://slatestarcodex.com/2016/04/04/the-ideology-is-not-the-movement/)
 - [Your Life in Weeks](http://waitbutwhy.com/2014/05/life-weeks.html) - [Wait but Why](http://waitbutwhy.com)
 - [The Alameda-Weehawken Burrito Tunnel](http://idlewords.com/2007/04/the_alameda_weehawken_burrito_tunnel.htm) - [Idle Words](http://idlewords.com)
