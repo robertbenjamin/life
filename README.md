@@ -26,7 +26,6 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 **Articles:**
 - [Life Lessons after 10 Years](https://betterexplained.com/articles/life-lessons-10-years/) - [Better Explained](https://betterexplained.com/)
 - [Richard Feynman on the True Meaning of Phyisc](http://www.omnimagazine.com/archives/interviews/feynman/index.html) - [Omni Magazine](http://www.omnimagazine.com)
-- [The Relativity of Wrong](http://chem.tufts.edu/answersinscience/relativityofwrong.htm) - [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)
 - [The Ideology is Not the Movement](http://slatestarcodex.com/2016/04/04/the-ideology-is-not-the-movement/)
 - [Your Life in Weeks](http://waitbutwhy.com/2014/05/life-weeks.html) - [Wait but Why](http://waitbutwhy.com)
 - [The Alameda-Weehawken Burrito Tunnel](http://idlewords.com/2007/04/the_alameda_weehawken_burrito_tunnel.htm) - [Idle Words](http://idlewords.com)
@@ -34,6 +33,9 @@ Inspired by Buster Benson's [Codex Vitae](https://github.com/busterbenson/public
 - [Programming Sucks](http://www.stilldrinking.org/programming-sucks) - [Still Drinking](http://www.stilldrinking.org)
 - [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) - [Bloomberg](http://www.bloomberg.com)
 - [What Does Any of This Have To Do with Physics?](http://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics) - [Nautilus](http://http://nautil.us/)
+
+**Essays:**
+- [The Relativity of Wrong](http://chem.tufts.edu/answersinscience/relativityofwrong.htm) - Isaac Asimov
 
 **Books:**
 - Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig
